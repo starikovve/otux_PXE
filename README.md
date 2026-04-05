@@ -143,6 +143,7 @@ systemctl restart apache2
 
 <img width="1545" height="224" alt="image" src="https://github.com/user-attachments/assets/13d592cf-d8c8-4aba-bf37-0ac679a9be09" />
 
+Переместил каталог в ту директорую в которой ищут загрузчик и все заработало
 
 На этом настройка Web-сервера завершена и на данный момент, если мы запустим ВМ pxeclient, то увидим
 загрузку по PXE
